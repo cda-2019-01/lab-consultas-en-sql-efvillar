@@ -2,7 +2,6 @@
    SUM(c12)
 0  15137.63
 <BLANKLINE>
-
 >>> import os; print(os.popen('python3 sqlrun __q02.sql').read())
    COUNT(*)
 0        30
